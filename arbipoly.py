@@ -98,7 +98,7 @@ logger.addHandler(queue_handler)
 
 formatter = logging.Formatter('%(asctime)s - [Gabagool] - %(levelname)s - %(message)s')
 
-file_handler = logging.FileHandler("bot_v8_7.log")
+file_handler = logging.FileHandler("bot_v8.log")
 file_handler.setFormatter(formatter)
 stream_handler = logging.StreamHandler()
 stream_handler.setFormatter(formatter)
