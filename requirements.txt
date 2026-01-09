@@ -1,0 +1,9 @@
+aiohttp
+py-builder-signing-sdk
+py-builder-relayer-client
+py-clob-client
+python-telegram-bot
+python-dotenv
+tzdata
+uvloop
+web3
